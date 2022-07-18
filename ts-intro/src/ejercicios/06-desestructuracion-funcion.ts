@@ -28,8 +28,8 @@ export function calculaISV(productos: Producto[]):[number, number] {
 }
 
 
-const articulos = [ telefono, tableta];
+/* const articulos = [ telefono, tableta];
 const [total, isv] = calculaISV( articulos );
 
 console.log('Total:', total);
-console.log("ISV:", isv);
+console.log("ISV:", isv); */
